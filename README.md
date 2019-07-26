@@ -1,2 +1,4 @@
 # TemplateSiteEmManutencao
-Tela de template de site em manutenção, feito com HTML5 e CSS
+==========================
+
+Uma página em HTML e CSS para site em manutenção...
