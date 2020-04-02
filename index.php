@@ -3,17 +3,17 @@
 
 <head>
 	<meta charset="utf-8" />
-	<title>Página em Construção</title>
+	<title>Página em Manutenção</title>
 	<link rel="stylesheet" type="text/css" href="style.css" />
 
 </head>
 
 <body>
 	<div class="wrapper">
-		<img class="logo" src="images/logo.png" alt="Econecte" title="Econecte" style="width: 50% " />
+		<h1>Rateio Estratégico</h1>
 		<div class="hr"></div>
 		<h1>Estamos em manutenção.</h1>
-		<p>É rapidinho, logo logo estaremos de volta .</p>
+		<p>Nosso site mudou de endereço. Entre agora em rateioestrategico.com.</p>
 
 	</div>
 	</section>
